@@ -1,5 +1,5 @@
 # 2D Drawing robot by Hari Shankar Govindasamy (Support of Marlin)
-<img align="right" src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
+<img align="right" src="Logo/robot.jpg" />
 
 
 ## Thankyou for visiting my page 
